@@ -1,5 +1,5 @@
-<h3 align="center">I'm KwonYiHyun</h3>
-# I'm KwonYiHyun
+<h2 align="center">I'm KwonYiHyun</h2>
+
 🥇First confidence
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
