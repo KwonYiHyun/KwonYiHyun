@@ -1,4 +1,4 @@
-<h2 align="center">KwonYiHyun's Git</h2>
+<h2 align="center">KwonYiHyun's Profile</h2>
 
 ## Skills
 
