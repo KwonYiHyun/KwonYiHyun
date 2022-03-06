@@ -7,11 +7,11 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java%20Swing-007396?style=flat-square&logo=java&logoColor=white"/>
 
-<h4>🥈Second confidenc</h4>
+<h4>🥈Second confidence</h4>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Basic%20for%20Applications-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-<h4>🥉Third confidenc</h4>
+<h4>🥉Third confidence</h4>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
