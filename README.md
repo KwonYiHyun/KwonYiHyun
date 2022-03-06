@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=unity&logoColor=white"/>
 
@@ -28,5 +27,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 <img src=""/>
