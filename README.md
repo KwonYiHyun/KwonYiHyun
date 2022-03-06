@@ -1,5 +1,7 @@
 <h2 align="center">KwonYiHyun's Git</h2>
 
+## Skills
+
 <h4>🥇First confidence</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -21,3 +23,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>
+
+## Stats
+[![Solved.ac
+diamoboy](http://mazassumnida.wtf/api/v2/generate_badge?boj=diamoboy)](https://solved.ac/diamoboy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYiHyun&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
