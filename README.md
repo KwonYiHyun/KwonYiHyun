@@ -8,12 +8,13 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Basic%20for%20Applications-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=flat-square&logo=java&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
 <h4>Framework</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
 </p>
 
 <h4>Etc</h4>
@@ -22,6 +23,7 @@
   <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 ## Stats
