@@ -5,7 +5,7 @@
 <h4>Language</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Basic%20for%20Applications-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
