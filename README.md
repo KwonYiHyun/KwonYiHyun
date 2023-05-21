@@ -12,7 +12,6 @@
 
 <h4>Framework</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
 </p>
 
