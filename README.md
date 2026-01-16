@@ -35,10 +35,4 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diamoboy" alt="Solved.ac Profile"/>
   </a>
 
-  <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KwonYiHyun&theme=radical&show_icons=true" alt="KwonYiHyun's GitHub Stats"/>
-  </a>
-
 </div>
