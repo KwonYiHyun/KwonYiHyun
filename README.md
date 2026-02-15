@@ -11,7 +11,7 @@
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> -->
 </p>
 
 <h3 align="center">Databases</h3>
